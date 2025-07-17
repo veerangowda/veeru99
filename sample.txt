@@ -6,3 +6,6 @@ sub
 
 mul
 5*5=25
+
+division
+5/5=1
